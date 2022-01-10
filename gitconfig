@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = adrien.mocek@gmail.com
+	name = adrien mocek
